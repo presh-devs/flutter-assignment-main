@@ -1,0 +1,4 @@
+Notes:
+Due to the figma design not available I'm unable to use the exact font, fontsizes and colors in the provided screenshot, so there might be discrepancies.
+I  assumed the subarea-block-house format to be subarea- text, block-digit, house - digit e.g London-19-15 is the format accepted.
+When the next button is clicked an adrress object is created which saves the data.
